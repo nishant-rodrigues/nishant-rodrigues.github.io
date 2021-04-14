@@ -87,4 +87,4 @@ enableEmoji = true
       [[languages.en.menu.main]]
         identifier = "Resume"
         name = "Resume"
-        url = "https://nishant-rodrigues.github.io/resume.pdf"
+        url = "https://raw.githubusercontent.com/nishant-rodrigues/nishant-rodrigues.github.io/master/resume.pdf"
