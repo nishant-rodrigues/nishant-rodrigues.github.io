@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Intro on Nishant Rodrigues</title><link>/</link><description>Recent content in Intro on Nishant Rodrigues</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 19 Feb 2021 20:28:35 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Smart lighting for Large Public Spaces</title><link>/publications/smart_lighting/</link><pubDate>Sat, 20 Feb 2021 22:50:27 +0530</pubDate><guid>/publications/smart_lighting/</guid><description>This paper proposes an IoT based solution to automate smart lighting in large public spaces. The proposed solution aims to optimize power efficiency and cost effectiveness while providing an automated solution. The system makes use of devices that can detect Wi-Fi signals (Wi-Fi sniffers) from mobile devices. Continuously monitoring the smart devices (connected to a wireless network) in the vicinity makes it possible to estimate the position and number of people in an area based on the range of the device and use this to control the lighting.</description><content>&lt;p>This paper proposes an IoT based solution to automate smart lighting in large public spaces. The proposed solution aims to optimize power efficiency and cost effectiveness while providing an automated solution. The system makes use of devices that can detect Wi-Fi signals (Wi-Fi sniffers) from mobile devices. Continuously monitoring the smart devices (connected to a wireless network) in the vicinity makes it possible to estimate the position and number of people in an area based on the range of the device and use this to control the lighting. The paper illustrates the use of such devices in two settings; opening various sections of a space based on the number of people and automated lighting based on the movement of people in a large area.&lt;/p></content></item><item><title>Dilated CNN for Brain Tumor Detection</title><link>/publications/brain_tumor/</link><pubDate>Fri, 17 Jul 2020 13:34:00 +0530</pubDate><guid>/publications/brain_tumor/</guid><description>Brain tumor classification is a challenging task in the field of medical image processing. Technology has now enabled medical doctors to have additional aid for diagnosis. We aim to classify brain tumors using MRI images, which were collected from anonymous patients and artificial brain simulators. In this article, we carry out a comparative study between Simple Artificial Neural Networks with dropout, Basic Convolutional Neural Networks (CNN), and Dilated Convolutional Neural Networks.</description><content>&lt;p>Brain tumor classification is a challenging task in the field of medical image processing. Technology has now enabled medical doctors to have additional aid for diagnosis. We aim to classify brain tumors using MRI images, which were collected from anonymous patients and artificial brain simulators. In this article, we carry out a comparative study between Simple Artificial Neural Networks with dropout, Basic Convolutional Neural Networks (CNN), and Dilated Convolutional Neural Networks. The experimental results shed light on the high classification performance (accuracy 97%) of Dilated CNN. On the other hand, Dilated CNN suffers from the gridding phenomenon. An incremental, even number dilation rate takes advantage of the reduced computational overhead and also overcomes the adverse effects of gridding. Comparative analysis between different combinations of dilation rates for the different convolution layers, help validate the results. The computational overhead in terms of efficiency for training the model to reach an acceptable threshold accuracy of 90% is another parameter to compare the model performance.&lt;/p>
+&lt;p>&lt;a href="https://www.mdpi.com/2076-3417/10/14/4915/htm">Full paper&lt;/a>&lt;/p>
+&lt;details >
+&lt;summary>Cite&lt;/summary>
+&lt;div class="markdown-inner">
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-bibtex" data-lang="bibtex">&lt;span style="color:#a6e22e">@Article&lt;/span>{app10144915,
+&lt;span style="color:#a6e22e">AUTHOR&lt;/span> = &lt;span style="color:#e6db74">{Roy, Sanjiban Sekhar and Rodrigues, Nishant and Taguchi, Y-h.}&lt;/span>,
+&lt;span style="color:#a6e22e">TITLE&lt;/span> = &lt;span style="color:#e6db74">{Incremental Dilations Using CNN for Brain Tumor Classification}&lt;/span>,
+&lt;span style="color:#a6e22e">JOURNAL&lt;/span> = &lt;span style="color:#e6db74">{Applied Sciences}&lt;/span>,
+&lt;span style="color:#a6e22e">VOLUME&lt;/span> = &lt;span style="color:#e6db74">{10}&lt;/span>,
+&lt;span style="color:#a6e22e">YEAR&lt;/span> = &lt;span style="color:#e6db74">{2020}&lt;/span>,
+&lt;span style="color:#a6e22e">NUMBER&lt;/span> = &lt;span style="color:#e6db74">{14}&lt;/span>,
+&lt;span style="color:#a6e22e">ARTICLE-NUMBER&lt;/span> = &lt;span style="color:#e6db74">{4915}&lt;/span>,
+&lt;span style="color:#a6e22e">URL&lt;/span> = &lt;span style="color:#e6db74">{https://www.mdpi.com/2076-3417/10/14/4915}&lt;/span>,
+&lt;span style="color:#a6e22e">ISSN&lt;/span> = &lt;span style="color:#e6db74">{2076-3417}&lt;/span>,
+&lt;span style="color:#a6e22e">DOI&lt;/span> = &lt;span style="color:#e6db74">{10.3390/app10144915}&lt;/span>
+}
+&lt;/code>&lt;/pre>&lt;/div>
+&lt;/div>
+&lt;/details></content></item><item><title>Archive-based Swarms</title><link>/publications/fabso/</link><pubDate>Sun, 12 Jul 2020 13:30:34 +0530</pubDate><guid>/publications/fabso/</guid><description>The Particle Swarm Optimization (PSO) algorithm updates each individual&amp;rsquo;s velocity and position using its own prior best position and the best position found so far by any particle. Effective search for global optima can benefit if each particle may utilize additional historical information regarding the quality of previously visited positions in its proximity. We present an approach for doing so, using an archive containing some prior particle positions, analogous to the archive used in some multi-objective optimization algorithms.</description><content>&lt;p>The Particle Swarm Optimization (PSO) algorithm updates each individual&amp;rsquo;s velocity and position using its own prior best position and the best position found so far by any particle. Effective search for global optima can benefit if each particle may utilize additional historical information regarding the quality of previously visited positions in its proximity. We present an approach for doing so, using an archive containing some prior particle positions, analogous to the archive used in some multi-objective optimization algorithms. A specific instance of this approach is the proposed Fitness-Distance-Ratio Archive-Based Swarm Optimization algorithm, shown to outperform PSO and three other variants, when applied to high-dimensional neural network training problems.&lt;/p>
+&lt;p>&lt;a href="https://dl.acm.org/doi/abs/10.1145/3377929.3398112">Full paper&lt;/a>&lt;/p>
+&lt;details >
+&lt;summary>Cite&lt;/summary>
+&lt;div class="markdown-inner">
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-bibtex" data-lang="bibtex">&lt;span style="color:#a6e22e">@inproceedings&lt;/span>{10.1145/3377929.3398112,
+&lt;span style="color:#a6e22e">author&lt;/span> = &lt;span style="color:#e6db74">{Rodrigues, Nishant and Mohan, Chilukuri}&lt;/span>,
+&lt;span style="color:#a6e22e">title&lt;/span> = &lt;span style="color:#e6db74">{Archive-Based Swarms}&lt;/span>,
+&lt;span style="color:#a6e22e">year&lt;/span> = &lt;span style="color:#e6db74">{2020}&lt;/span>,
+&lt;span style="color:#a6e22e">isbn&lt;/span> = &lt;span style="color:#e6db74">{9781450371278}&lt;/span>,
+&lt;span style="color:#a6e22e">publisher&lt;/span> = &lt;span style="color:#e6db74">{Association for Computing Machinery}&lt;/span>,
+&lt;span style="color:#a6e22e">address&lt;/span> = &lt;span style="color:#e6db74">{New York, NY, USA}&lt;/span>,
+&lt;span style="color:#a6e22e">url&lt;/span> = &lt;span style="color:#e6db74">{https://doi.org/10.1145/3377929.3398112}&lt;/span>,
+&lt;span style="color:#a6e22e">doi&lt;/span> = &lt;span style="color:#e6db74">{10.1145/3377929.3398112}&lt;/span>,
+&lt;span style="color:#a6e22e">booktitle&lt;/span> = &lt;span style="color:#e6db74">{Proceedings of the 2020 Genetic and
+&lt;/span>&lt;span style="color:#e6db74">Evolutionary Computation Conference Companion}&lt;/span>,
+&lt;span style="color:#a6e22e">pages&lt;/span> = &lt;span style="color:#e6db74">{1460–1467}&lt;/span>,
+&lt;span style="color:#a6e22e">numpages&lt;/span> = &lt;span style="color:#e6db74">{8}&lt;/span>,
+&lt;span style="color:#a6e22e">keywords&lt;/span> = &lt;span style="color:#e6db74">{artificial neural networks, fitness-distance ratio, archive,
+&lt;/span>&lt;span style="color:#e6db74">swarm intelligence, evolutionary machine learning,
+&lt;/span>&lt;span style="color:#e6db74">particle swarm optimization, premature convergence}&lt;/span>,
+&lt;span style="color:#a6e22e">location&lt;/span> = &lt;span style="color:#e6db74">{Canc\&amp;#39;{u}n, Mexico}&lt;/span>,
+&lt;span style="color:#a6e22e">series&lt;/span> = &lt;span style="color:#e6db74">{GECCO &amp;#39;20}&lt;/span>
+}
+&lt;/code>&lt;/pre>&lt;/div>
+&lt;/div>
+&lt;/details></content></item><item><title>Sentiment Analysis</title><link>/projects/sentiment/</link><pubDate>Wed, 14 Nov 2018 18:10:52 +0530</pubDate><guid>/projects/sentiment/</guid><description>Sentiment analysis is an integral part of understanding human behavior and reactions to conversations.
+In simpler terms, understanding how a person reacts to the conversation. Each individual can react to a conversation textual or verbal in a number of ways, based on their beliefs, mindset, and other individual preferences.
+With a video call, understanding and analyzing an individual’s reaction becomes much simpler. This is made possible by facial features and muscular reactions such as smiling, frowning etc.</description><content>&lt;p>Sentiment analysis is an integral part of understanding human behavior and reactions to conversations.&lt;/p>
+&lt;p>In simpler terms, understanding how a person reacts to the conversation. Each individual can react to a conversation textual or verbal in a number of ways, based on their beliefs, mindset, and other individual preferences.&lt;/p>
+&lt;p>With a video call, understanding and analyzing an individual’s reaction becomes much simpler. This is made possible by facial features and muscular reactions such as smiling, frowning etc.&lt;/p>
+&lt;p>Checkout the &lt;a href="https://agora-emotion-analysis.netlify.app/">live demo&lt;/a>&lt;/p>
+&lt;p>Read the full &lt;a href="https://medium.com/agora-io/sentiment-analysis-with-agoras-video-call-de12938417ec">post&lt;/a> on Medium.&lt;/p>
+&lt;h4 id="team">Team&lt;/h4>
+&lt;p>&lt;a href="https://github.com/nishnash54">@nishnash54&lt;/a> &lt;a href="https://github.com/samyak-jain">@samyak-jain&lt;/a> &lt;a href="https://github.com/technophilic">@technophilic&lt;/a>&lt;/p></content></item><item><title>UnSting</title><link>/projects/unsting/</link><pubDate>Wed, 20 Jun 2018 11:22:38 +0530</pubDate><guid>/projects/unsting/</guid><description>An end-to-end disaster recovery and management platform using decentralized swarm robotics (autonomous drones) using RTC (Realtime Communication) powered by agora.io to detect and track people in need of help. This information is relayed by our platform to people who are willing to help. The platform seamlessly integrates volunteers, people in need of help, and other interested parties.
+Drones collect information through a live stream that is sent to the servers in real time.</description><content>&lt;p>An end-to-end disaster recovery and management platform using decentralized swarm robotics (autonomous drones) using RTC (Realtime Communication) powered by agora.io to detect and track people in need of help. This information is relayed by our platform to people who are willing to help. The platform seamlessly integrates volunteers, people in need of help, and other interested parties.&lt;/p>
+&lt;p>Drones collect information through a live stream that is sent to the servers in real time. Using the orientation of the drone and some assumed properties, the geo-location of the affected person is detected by mapping his location in the 2D image to a 3D coordinate using a custom-built algorithm. This data is plotted on a dashboard and sent to a PWA (Progressive Web App) to assist on field search and rescue operations.&lt;/p>
+&lt;h3 id="drones">Drones&lt;/h3>
+&lt;p>The drone carries a high definition camera and equipment to relay the video feed to the base station in real time. This feed is the processes along with some additional information from the drone.&lt;/p>
+&lt;figure class="center" >
+&lt;img src="/drone.gif" />
+&lt;figcaption class="center" >Drone: Hexacopter V1&lt;/figcaption>
+&lt;/figure>
+&lt;p>The drones follow a hexagonal mapped path. This allows the drones to cover the maximum affected area in the miminum amount of time. The hexagonal grid pattern over the area shows the path followed by the drones.&lt;/p>
+&lt;figure class="center" >
+&lt;img src="/drone_path.gif" />
+&lt;figcaption class="center" >Haxagonal path mapping followed by the drones&lt;/figcaption>
+&lt;/figure>
+&lt;h3 id="object-detection">Object detection&lt;/h3>
+&lt;p>The application makes use of object detection on the video feed to find people in need of help in the affected areas. This data is then combined with addition geo data and an algorithm converts this 2D image to a 3D geo location coordinate.&lt;/p>
+&lt;figure class="center" >
+&lt;img src="/detect.gif" />
+&lt;figcaption class="center" >Detecting multiple people from the live video stream&lt;/figcaption>
+&lt;/figure>
+&lt;h3 id="application">Application&lt;/h3>
+&lt;p>The entire concept is tied together by the application that allows the users to monitor the situation and guide the serach and rescue teams on the ground.&lt;/p>
+&lt;h6 id="dashboard">Dashboard&lt;/h6>
+&lt;p>The dashboard is a overview of all the moving parts of the disaster management and recovery platform. It allows for a team to view all the aspects of the situation and make decisions related to resources and on ground rescue teams.&lt;/p>
+&lt;figure class="center" >
+&lt;img src="/dashboard.gif" />
+&lt;figcaption class="center" >Dashboard view of the entire search and rescue operation&lt;/figcaption>
+&lt;/figure>
+&lt;h6 id="app">App&lt;/h6>
+&lt;p>The Progressive Web App (PWA) allows users to sign up as volunteers and aid in the operations. They can view the location of other volunteers and people in need of help and also communicate through the chat interface.&lt;/p>
+&lt;h4 id="team">Team&lt;/h4>
+&lt;p>&lt;a href="https://github.com/nishnash54">@nishnash54&lt;/a> &lt;a href="https://github.com/Souldiv">@Souldiv&lt;/a> &lt;a href="https://github.com/SuryaThiru">@SuryaThiru&lt;/a> &lt;a href="https://github.com/samyak-jain">@samyak-jain&lt;/a> &lt;a href="https://github.com/technophilic">@technophilic&lt;/a>&lt;/p></content></item><item><title>OrphanCare</title><link>/projects/orphancare/</link><pubDate>Sat, 04 Nov 2017 01:05:12 +0530</pubDate><guid>/projects/orphancare/</guid><description>A platform to empower the public, provide help to children and orphans and protect them from abuse.
+We provide a platform that keeps the sensitive data secured by blockchain, uses FaceNet deep learning algorithm for facial feature recognition and cloud computing for big data analysis. We also integrate GPS location and implmented a form of YOLO to trach and find the children.
+A simple and easy to use PWA just allows the user to take a picture of a child.</description><content>&lt;p>A platform to empower the public, provide help to children and orphans and protect them from abuse.&lt;/p>
+&lt;p>We provide a platform that keeps the sensitive data secured by blockchain, uses FaceNet deep learning algorithm for facial feature recognition and cloud computing for big data analysis. We also integrate GPS location and implmented a form of YOLO to trach and find the children.&lt;/p>
+&lt;p>A simple and easy to use PWA just allows the user to take a picture of a child. Face recognition and tracking is done with this data. To optimize the solution all the computation is distributed to the cloud.&lt;/p>
+&lt;h3 id="problem-statement">Problem statement&lt;/h3>
+&lt;p>India, with its growing population, is experiencing a growing no. of children who are left unattended in the streets for various reasons. There is extreme difficulty is mapping those in need and to rescue them from the streets. We wanted to solve this problem by using blockchain and face recognition empower the public with a platform to fight child mistreatments and child abuse.&lt;/p>
+&lt;h3 id="objectives">Objectives&lt;/h3>
+&lt;ul>
+&lt;li>Using blockchain and face recognition empower the public with a platform to fight child mistreatments and child abuse.&lt;/li>
+&lt;li>Provide a platform for NGOs that target rehabilitation of unattended street children/orphans&lt;/li>
+&lt;li>Empower any user to help eradicate a gloomy future for these kids&lt;/li>
+&lt;li>Make it cross-platform so as to ensure maximum usage and no restrictions&lt;/li>
+&lt;/ul>
+&lt;h3 id="architecture">Architecture&lt;/h3>
+&lt;p>The proposed design is an Progressive Web App that runs on all platforms irrespective of Operating Systems. The application allows the user to take a geotagged image which delivered to a web server which again forwards it to a search and match server which functions as a matcher. The search and match servers run facial recognition algorithms and checks from the database for image data matching to anything in the database. If a match is found, the concerned organisation can view the geotagged image and the location of the child found. The organisation can take further action accordingly.&lt;/p>
+&lt;figure class="center" >
+&lt;img src="/orphan.png" />
+&lt;figcaption class="center" >OrphanCare: Application architecture&lt;/figcaption>
+&lt;/figure>
+&lt;h4 id="team">Team&lt;/h4>
+&lt;p>&lt;a href="https://github.com/apuayush">@apuayush&lt;/a> &lt;a href="https://github.com/nishnash54">@nishnash54&lt;/a> &lt;a href="https://github.com/SuryaThiru">@SuryaThiru&lt;/a> &lt;a href="https://github.com/samyak-jain">@samyak-jain&lt;/a> &lt;a href="https://github.com/technophilic">@technophilic&lt;/a>&lt;/p></content></item><item><title>SubConn</title><link>/projects/subconn/</link><pubDate>Wed, 04 Jun 2014 01:18:09 +0530</pubDate><guid>/projects/subconn/</guid><description>A Progressive Web App to track subsidized product transactions using distributed ledgers, hence improving efficiency and transparency in the distribution of goods and services through various Govt. schemes.
+The algorithm includes a unique forward pass that integrates the tokens with the blockchain to allow for a back propagation to detect and handle errors. The block chain secures the item transactions and maintains the path followed by each item
+Problem statement The government spends $13.</description><content>&lt;p>A Progressive Web App to track subsidized product transactions using distributed ledgers, hence improving efficiency and transparency in the distribution of goods and services through various Govt. schemes.&lt;/p>
+&lt;p>The algorithm includes a unique forward pass that integrates the tokens with the blockchain to allow for a back propagation to detect and handle errors. The block chain secures the item transactions and maintains the path followed by each item&lt;/p>
+&lt;h3 id="problem-statement">Problem statement&lt;/h3>
+&lt;ul>
+&lt;li>The government spends $13.6 billion per year on the Public
+Distribution System(PDS)&lt;/li>
+&lt;li>With the total subsidies provided added up to a staggering Rs. 2400 billion.&lt;/li>
+&lt;li>These services do not reach the targeted people due to corruption in the system&lt;/li>
+&lt;li>This is clearly visible by the fact that 21% of the population still remain undernourished.&lt;/li>
+&lt;/ul>
+&lt;h3 id="solution">Solution&lt;/h3>
+&lt;ul>
+&lt;li>Tracking the products from the supplier to the consumer through the chain.&lt;/li>
+&lt;li>Eliminate tampering by middlemen.&lt;/li>
+&lt;li>Maintain quality control of the goods.&lt;/li>
+&lt;/ul>
+&lt;h3 id="application-wireframes">Application (wireframes)&lt;/h3>
+&lt;figure class="center" >
+&lt;img src="/subconn.png" />
+&lt;figcaption class="center" >OrphanCare: Application wireframes&lt;/figcaption>
+&lt;/figure>
+&lt;h4 id="team">Team&lt;/h4>
+&lt;p>&lt;a href="https://github.com/apuayush">@apuayush&lt;/a> &lt;a href="https://github.com/nishnash54">@nishnash54&lt;/a> &lt;a href="https://github.com/SuryaThiru">@SuryaThiru&lt;/a> &lt;a href="https://github.com/technophilic">@technophilic&lt;/a>&lt;/p></content></item><item><title>Awards</title><link>/awards/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/awards/</guid><description>Special Achiever Award 🏆 Vellore Institute of Technology, Vellore Feburary 2019
+In recognition of exemplary performance in International events and meritorious academic performance.
+Developer of the Year 2018 🏆 agora.io September 2018
+Winners of Grand Finale of RTC hack in Beijing where we perfected our drone based disaster recovery and management system and added some more innovative features to it. We had the opportunity to meet visionaries and leaders from all over the world and it gave us immense pleasure to pitch our idea before them.</description><content>&lt;h4 id="special-achiever-award">Special Achiever Award&lt;/h4>
+&lt;p>🏆 &lt;em>Vellore Institute of Technology, Vellore&lt;/em> Feburary 2019&lt;/p>
+&lt;p>In recognition of exemplary performance in International events and meritorious academic performance.&lt;/p>
+&lt;hr>
+&lt;h4 id="developer-of-the-year-2018">Developer of the Year 2018&lt;/h4>
+&lt;p>🏆 &lt;em>agora.io&lt;/em> September 2018&lt;/p>
+&lt;p>Winners of Grand Finale of RTC hack in Beijing where we perfected our drone based disaster recovery and management system and added some more innovative features to it. We had the opportunity to meet visionaries and leaders from all over the world and it gave us immense pleasure to pitch our idea before them. We were granted the title of developers of the year after the pitch of the exemplary prototype.&lt;/p>
+&lt;hr>
+&lt;h4 id="angel-hack-global-hackathon-series-rtc-challenge">Angel Hack: Global hackathon series (RTC Challenge)&lt;/h4>
+&lt;p>🥇 &lt;em>AngelHack&lt;/em> June 2018&lt;/p>
+&lt;p>Won the AngelHack agora.io RTC challenge at AngleHack Bangalore.
+We implemented a disaster management and recovery platform that uses swarm robotics (drones) to find and track people in need of help in real time. This information is used to create an application that helps connect people in need of help to people willing to help.&lt;/p>
+&lt;hr>
+&lt;h3 id="1supstsup-codespace-hackathon">1&lt;!-- raw HTML omitted -->st&lt;!-- raw HTML omitted --> CodeSpace hackathon&lt;/h3>
+&lt;p>🥇 &lt;em>Computer Society of India&lt;/em> March 2018&lt;/p>
+&lt;p>Secured the First place at CodeSpace 2018 a hackthon conducted by the Computer Society of India (CSI) student chapter, VIT Vellore. We create a platform OrphanCare to help track and find lost children and prevent children from abuse.&lt;/p>
+&lt;hr>
+&lt;h3 id="1supstsup-juspay-hyper-hack">1&lt;!-- raw HTML omitted -->st&lt;!-- raw HTML omitted --> Juspay Hyper Hack&lt;/h3>
+&lt;p>🥇 &lt;em>Indian Institute of Technology, Madras&lt;/em> January 2018&lt;/p>
+&lt;p>Secured the First position at the Juspay Hyper Hack conducted by Juspay University during Shaastra 2018 the technical fest at IIT-Madras. We created SubConn, a platform to track and manage the flow of a distribution chain using blockchain. We used it to tackle corruption in the Public Distribution System (PDS).&lt;/p>
+&lt;hr>
+&lt;h3 id="data-structures-and-algorithms-hackathon">Data Structures and Algorithms Hackathon&lt;/h3>
+&lt;p>🥇 &lt;em>Computer Society of India&lt;/em> March 2017&lt;/p>
+&lt;p>Secured the First place in the Data Structures and Algorithms hackathon conducted by the Computer Society of India chapter, VIT Vellore.&lt;/p></content></item><item><title>Connect</title><link>/connect/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/connect/</guid><description>Details
+🏢 iQGateway 📍 Bangalore, India ✉️ nishantrodrigues97@gmail.com 💼 LinkedIn nishant-rodrigues Open Source
+GitHub @nishnash54 GitLab @nishnash54 Blogs
+Medium skillsmuggler</description><content>&lt;p>Details&lt;/p>
+&lt;ul>
+&lt;li>🏢 iQGateway&lt;/li>
+&lt;li>📍 Bangalore, India&lt;/li>
+&lt;li>✉️ &lt;a href="mailto:nishantrodrigues97@gmail.com">nishantrodrigues97@gmail.com&lt;/a>&lt;/li>
+&lt;li>💼 LinkedIn &lt;a href="https://www.linkedin.com/public-profile/in/nishant-rodrigues">nishant-rodrigues&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Open Source&lt;/p>
+&lt;ul>
+&lt;li>GitHub &lt;a href="https://github.com/nishnash54">@nishnash54&lt;/a>&lt;/li>
+&lt;li>GitLab &lt;a href="https://gitlab.com/nishnash54">@nishnash54&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Blogs&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://medium.com/@nishantrodrigues97">Medium&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://skillsmuggler.wordpress.com/">skillsmuggler&lt;/a>&lt;/li>
+&lt;/ul></content></item><item><title>Experience</title><link>/experience/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/experience/</guid><description>Associate Data Scientist iQGateway 📅 Current 📍 Bangalore
+Responsible for developing and implementing patented concepts for an Automated Machine Learning approach that includes pipeline automation and model scoring based on multiple metrics.
+Data Science Consultant iQGateway 📅 June 2018 - December 2019 (1 year 7 months) 📍 Bangalore
+Part of a team that supports the lead data scientist in a number of projects covering the areas of Image analytics, prediction, and Recommendation engines.</description><content>&lt;h3 id="associate-data-scientist">Associate Data Scientist&lt;/h3>
+&lt;p>&lt;strong>iQGateway&lt;/strong> 📅 Current 📍 Bangalore&lt;/p>
+&lt;p>Responsible for developing and implementing patented concepts for an Automated Machine Learning approach that includes pipeline automation and model scoring based on multiple metrics.&lt;/p>
+&lt;hr>
+&lt;h3 id="data-science-consultant">Data Science Consultant&lt;/h3>
+&lt;p>&lt;strong>iQGateway&lt;/strong> 📅 June 2018 - December 2019 (1 year 7 months) 📍 Bangalore&lt;/p>
+&lt;p>Part of a team that supports the lead data scientist in a number of projects covering the areas of Image analytics, prediction, and Recommendation engines.&lt;/p>
+&lt;hr>
+&lt;h3 id="technical-contractor">Technical Contractor&lt;/h3>
+&lt;p>&lt;strong>agora.io&lt;/strong> 📅 September 2018 - December 2019 (1 year 4 months) 📍 Bangalore&lt;/p>
+&lt;p>Responsible for creating technical documentation work for the company, conducting workshops for various student communities in our college and creating demo projects for customers.&lt;/p>
+&lt;hr>
+&lt;h3 id="data-science-intern">Data Science Intern&lt;/h3>
+&lt;p>&lt;strong>American Red Cross&lt;/strong> 📅 May 2018 - July 2018 (3 months) 📍 Bangalore&lt;/p>
+&lt;p>Worked on Data science, Web and database. Part of the Leadership Scorecard Project team, aimed to create and analyze metrics and Key Performance Indicators (KPIs) that provide insight into the quality and quantity of efforts in the services.&lt;/p>
+&lt;hr>
+&lt;h3 id="senior-developer-and-mentor">Senior Developer and Mentor&lt;/h3>
+&lt;p>&lt;strong>Google Developers Group&lt;/strong> 📅 October 2017 - Nov 2018 📍 Vellore&lt;/p>
+&lt;p>Engineered several machine learning solutions and developed innovative applications on a range of topics. Key role as a guide to several members of the community working on other projects and events. Conducted sessions on data science, algorithms and machine learning&lt;/p>
+&lt;hr>
+&lt;h3 id="technical-team-member">Technical Team Member&lt;/h3>
+&lt;p>&lt;strong>Google Developers Group&lt;/strong> 📅 October 2016 - October 2017 📍 Vellore&lt;/p>
+&lt;p>Learned about advanced tools and frameworks from my mentors at the organisation and got a chance to work on a lot of real-world problems. Learnt to work fast and with precision as well as manage academics with extra curricular activities.&lt;/p></content></item><item><title>Talks</title><link>/talks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/talks/</guid><description>Workshop on Swarm Intelligence Algorithms Presented paper (Archive-Based Swarms) as part of ACM’s Genetic and Evolutionary Computation Conference 2020.
+Community sessions Organized monthly community meetups on behalf of agora.io (2018)
+RTC Conference (2018) Speaker at the Real-time Communication Conference held in Beijing, China.
+Workshop on Data Sctuctures and Algorithms Guest speaker on the topic of &amp;ldquo;Application of Data Structures and Algorithms in Competitive programming&amp;rdquo; at VIT Amravati (2017)</description><content>&lt;h3 id="workshop-on-swarm-intelligence-algorithms">Workshop on Swarm Intelligence Algorithms&lt;/h3>
+&lt;p>Presented paper (Archive-Based Swarms) as part of ACM’s Genetic and Evolutionary Computation Conference 2020.&lt;/p>
+&lt;hr>
+&lt;h3 id="community-sessions">Community sessions&lt;/h3>
+&lt;p>Organized monthly community meetups on behalf of agora.io (2018)&lt;/p>
+&lt;hr>
+&lt;h3 id="rtc-conference-2018">RTC Conference (2018)&lt;/h3>
+&lt;p>Speaker at the Real-time Communication Conference held in Beijing, China.&lt;/p>
+&lt;hr>
+&lt;h3 id="workshop-on-data-sctuctures-and-algorithms">Workshop on Data Sctuctures and Algorithms&lt;/h3>
+&lt;p>Guest speaker on the topic of &amp;ldquo;Application of Data Structures and Algorithms in Competitive programming&amp;rdquo; at VIT Amravati (2017)&lt;/p></content></item><item><title>whoami</title><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid><description>I am a knowledge-hungry engineer who is constantly looking for opportunities and real-world challenges to solve, learn and improve my skills. I work on all things machine learning, exploring the domain to find my niche. I love open-source and engange whenever I get the time and chance.
+Technical strengths Computer languages
+⭐ Python, R, C/C++, Java, Julia
+Software and Tools
+Operating system
+⭐ Linux, Windows
+Editors</description><content>&lt;p>I am a knowledge-hungry engineer who is constantly looking for opportunities and real-world challenges to solve, learn and improve my skills. I work on all things machine learning, exploring the domain to find my niche. I love open-source and engange whenever I get the time and chance.&lt;/p>
+&lt;h3 id="technical-strengths">Technical strengths&lt;/h3>
+&lt;p>&lt;strong>Computer languages&lt;/strong>&lt;/p>
+&lt;p>⭐ Python, R, C/C++, Java, Julia&lt;/p>
+&lt;p>&lt;strong>Software and Tools&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Operating system&lt;/p>
+&lt;p>⭐ Linux, Windows&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Editors&lt;/p>
+&lt;p>⭐ Vim, JupyterLab, RStudio&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Data tools&lt;/p>
+&lt;p>SQL/NoSQL, Tableau, PowerBI&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Cloud services&lt;/p>
+&lt;p>GitHub, GitLab, GCP, AWS&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="interests">Interests&lt;/h3>
+&lt;p>I&amp;rsquo;m always up for a challenge, it may be as simple as implementing a few lines of code or ideating a solution for a real-world problem. I regularly take part in hackathons and contribute to open source projects.&lt;/p>
+&lt;p>Open source projects I contribute to&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/ljvmiranda921/pyswarms">pyswarms&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/tqdm/tqdm">tqdm&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="hobbies">Hobbies&lt;/h3>
+&lt;p>I love watching and playing basketball 🏀 and have represented Bangalore Sporting at the state level. Currently I train and take part in triathlons swim 🏊‍♂️ → bike 🚴‍♂️ → run 🏃‍♂️&lt;/p>
+&lt;p>I also enjoy fine arts 🎨 , especially Oil Pastels 🖍 , and Black &amp;amp; White charcoal ✏️&lt;/p></content></item></channel></rss>

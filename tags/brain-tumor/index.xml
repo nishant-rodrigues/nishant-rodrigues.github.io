@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>brain tumor on Nishant Rodrigues</title><link>/tags/brain-tumor/</link><description>Recent content in brain tumor on Nishant Rodrigues</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 17 Jul 2020 13:34:00 +0530</lastBuildDate><atom:link href="/tags/brain-tumor/index.xml" rel="self" type="application/rss+xml"/><item><title>Dilated CNN for Brain Tumor Detection</title><link>/publications/brain_tumor/</link><pubDate>Fri, 17 Jul 2020 13:34:00 +0530</pubDate><guid>/publications/brain_tumor/</guid><description>Brain tumor classification is a challenging task in the field of medical image processing. Technology has now enabled medical doctors to have additional aid for diagnosis. We aim to classify brain tumors using MRI images, which were collected from anonymous patients and artificial brain simulators. In this article, we carry out a comparative study between Simple Artificial Neural Networks with dropout, Basic Convolutional Neural Networks (CNN), and Dilated Convolutional Neural Networks.</description><content>&lt;p>Brain tumor classification is a challenging task in the field of medical image processing. Technology has now enabled medical doctors to have additional aid for diagnosis. We aim to classify brain tumors using MRI images, which were collected from anonymous patients and artificial brain simulators. In this article, we carry out a comparative study between Simple Artificial Neural Networks with dropout, Basic Convolutional Neural Networks (CNN), and Dilated Convolutional Neural Networks. The experimental results shed light on the high classification performance (accuracy 97%) of Dilated CNN. On the other hand, Dilated CNN suffers from the gridding phenomenon. An incremental, even number dilation rate takes advantage of the reduced computational overhead and also overcomes the adverse effects of gridding. Comparative analysis between different combinations of dilation rates for the different convolution layers, help validate the results. The computational overhead in terms of efficiency for training the model to reach an acceptable threshold accuracy of 90% is another parameter to compare the model performance.&lt;/p>
+&lt;p>&lt;a href="https://www.mdpi.com/2076-3417/10/14/4915/htm">Full paper&lt;/a>&lt;/p>
+&lt;details >
+&lt;summary>Cite&lt;/summary>
+&lt;div class="markdown-inner">
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-bibtex" data-lang="bibtex">&lt;span style="color:#a6e22e">@Article&lt;/span>{app10144915,
+&lt;span style="color:#a6e22e">AUTHOR&lt;/span> = &lt;span style="color:#e6db74">{Roy, Sanjiban Sekhar and Rodrigues, Nishant and Taguchi, Y-h.}&lt;/span>,
+&lt;span style="color:#a6e22e">TITLE&lt;/span> = &lt;span style="color:#e6db74">{Incremental Dilations Using CNN for Brain Tumor Classification}&lt;/span>,
+&lt;span style="color:#a6e22e">JOURNAL&lt;/span> = &lt;span style="color:#e6db74">{Applied Sciences}&lt;/span>,
+&lt;span style="color:#a6e22e">VOLUME&lt;/span> = &lt;span style="color:#e6db74">{10}&lt;/span>,
+&lt;span style="color:#a6e22e">YEAR&lt;/span> = &lt;span style="color:#e6db74">{2020}&lt;/span>,
+&lt;span style="color:#a6e22e">NUMBER&lt;/span> = &lt;span style="color:#e6db74">{14}&lt;/span>,
+&lt;span style="color:#a6e22e">ARTICLE-NUMBER&lt;/span> = &lt;span style="color:#e6db74">{4915}&lt;/span>,
+&lt;span style="color:#a6e22e">URL&lt;/span> = &lt;span style="color:#e6db74">{https://www.mdpi.com/2076-3417/10/14/4915}&lt;/span>,
+&lt;span style="color:#a6e22e">ISSN&lt;/span> = &lt;span style="color:#e6db74">{2076-3417}&lt;/span>,
+&lt;span style="color:#a6e22e">DOI&lt;/span> = &lt;span style="color:#e6db74">{10.3390/app10144915}&lt;/span>
+}
+&lt;/code>&lt;/pre>&lt;/div>
+&lt;/div>
+&lt;/details></content></item></channel></rss>

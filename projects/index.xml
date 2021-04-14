@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on Nishant Rodrigues</title><link>/projects/</link><description>Recent content in Projects on Nishant Rodrigues</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 14 Nov 2018 18:10:52 +0530</lastBuildDate><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Sentiment Analysis</title><link>/projects/sentiment/</link><pubDate>Wed, 14 Nov 2018 18:10:52 +0530</pubDate><guid>/projects/sentiment/</guid><description>Sentiment analysis is an integral part of understanding human behavior and reactions to conversations.
+In simpler terms, understanding how a person reacts to the conversation. Each individual can react to a conversation textual or verbal in a number of ways, based on their beliefs, mindset, and other individual preferences.
+With a video call, understanding and analyzing an individual’s reaction becomes much simpler. This is made possible by facial features and muscular reactions such as smiling, frowning etc.</description><content>&lt;p>Sentiment analysis is an integral part of understanding human behavior and reactions to conversations.&lt;/p>
+&lt;p>In simpler terms, understanding how a person reacts to the conversation. Each individual can react to a conversation textual or verbal in a number of ways, based on their beliefs, mindset, and other individual preferences.&lt;/p>
+&lt;p>With a video call, understanding and analyzing an individual’s reaction becomes much simpler. This is made possible by facial features and muscular reactions such as smiling, frowning etc.&lt;/p>
+&lt;p>Checkout the &lt;a href="https://agora-emotion-analysis.netlify.app/">live demo&lt;/a>&lt;/p>
+&lt;p>Read the full &lt;a href="https://medium.com/agora-io/sentiment-analysis-with-agoras-video-call-de12938417ec">post&lt;/a> on Medium.&lt;/p>
+&lt;h4 id="team">Team&lt;/h4>
+&lt;p>&lt;a href="https://github.com/nishnash54">@nishnash54&lt;/a> &lt;a href="https://github.com/samyak-jain">@samyak-jain&lt;/a> &lt;a href="https://github.com/technophilic">@technophilic&lt;/a>&lt;/p></content></item><item><title>UnSting</title><link>/projects/unsting/</link><pubDate>Wed, 20 Jun 2018 11:22:38 +0530</pubDate><guid>/projects/unsting/</guid><description>An end-to-end disaster recovery and management platform using decentralized swarm robotics (autonomous drones) using RTC (Realtime Communication) powered by agora.io to detect and track people in need of help. This information is relayed by our platform to people who are willing to help. The platform seamlessly integrates volunteers, people in need of help, and other interested parties.
+Drones collect information through a live stream that is sent to the servers in real time.</description><content>&lt;p>An end-to-end disaster recovery and management platform using decentralized swarm robotics (autonomous drones) using RTC (Realtime Communication) powered by agora.io to detect and track people in need of help. This information is relayed by our platform to people who are willing to help. The platform seamlessly integrates volunteers, people in need of help, and other interested parties.&lt;/p>
+&lt;p>Drones collect information through a live stream that is sent to the servers in real time. Using the orientation of the drone and some assumed properties, the geo-location of the affected person is detected by mapping his location in the 2D image to a 3D coordinate using a custom-built algorithm. This data is plotted on a dashboard and sent to a PWA (Progressive Web App) to assist on field search and rescue operations.&lt;/p>
+&lt;h3 id="drones">Drones&lt;/h3>
+&lt;p>The drone carries a high definition camera and equipment to relay the video feed to the base station in real time. This feed is the processes along with some additional information from the drone.&lt;/p>
+&lt;figure class="center" >
+&lt;img src="/drone.gif" />
+&lt;figcaption class="center" >Drone: Hexacopter V1&lt;/figcaption>
+&lt;/figure>
+&lt;p>The drones follow a hexagonal mapped path. This allows the drones to cover the maximum affected area in the miminum amount of time. The hexagonal grid pattern over the area shows the path followed by the drones.&lt;/p>
+&lt;figure class="center" >
+&lt;img src="/drone_path.gif" />
+&lt;figcaption class="center" >Haxagonal path mapping followed by the drones&lt;/figcaption>
+&lt;/figure>
+&lt;h3 id="object-detection">Object detection&lt;/h3>
+&lt;p>The application makes use of object detection on the video feed to find people in need of help in the affected areas. This data is then combined with addition geo data and an algorithm converts this 2D image to a 3D geo location coordinate.&lt;/p>
+&lt;figure class="center" >
+&lt;img src="/detect.gif" />
+&lt;figcaption class="center" >Detecting multiple people from the live video stream&lt;/figcaption>
+&lt;/figure>
+&lt;h3 id="application">Application&lt;/h3>
+&lt;p>The entire concept is tied together by the application that allows the users to monitor the situation and guide the serach and rescue teams on the ground.&lt;/p>
+&lt;h6 id="dashboard">Dashboard&lt;/h6>
+&lt;p>The dashboard is a overview of all the moving parts of the disaster management and recovery platform. It allows for a team to view all the aspects of the situation and make decisions related to resources and on ground rescue teams.&lt;/p>
+&lt;figure class="center" >
+&lt;img src="/dashboard.gif" />
+&lt;figcaption class="center" >Dashboard view of the entire search and rescue operation&lt;/figcaption>
+&lt;/figure>
+&lt;h6 id="app">App&lt;/h6>
+&lt;p>The Progressive Web App (PWA) allows users to sign up as volunteers and aid in the operations. They can view the location of other volunteers and people in need of help and also communicate through the chat interface.&lt;/p>
+&lt;h4 id="team">Team&lt;/h4>
+&lt;p>&lt;a href="https://github.com/nishnash54">@nishnash54&lt;/a> &lt;a href="https://github.com/Souldiv">@Souldiv&lt;/a> &lt;a href="https://github.com/SuryaThiru">@SuryaThiru&lt;/a> &lt;a href="https://github.com/samyak-jain">@samyak-jain&lt;/a> &lt;a href="https://github.com/technophilic">@technophilic&lt;/a>&lt;/p></content></item><item><title>OrphanCare</title><link>/projects/orphancare/</link><pubDate>Sat, 04 Nov 2017 01:05:12 +0530</pubDate><guid>/projects/orphancare/</guid><description>A platform to empower the public, provide help to children and orphans and protect them from abuse.
+We provide a platform that keeps the sensitive data secured by blockchain, uses FaceNet deep learning algorithm for facial feature recognition and cloud computing for big data analysis. We also integrate GPS location and implmented a form of YOLO to trach and find the children.
+A simple and easy to use PWA just allows the user to take a picture of a child.</description><content>&lt;p>A platform to empower the public, provide help to children and orphans and protect them from abuse.&lt;/p>
+&lt;p>We provide a platform that keeps the sensitive data secured by blockchain, uses FaceNet deep learning algorithm for facial feature recognition and cloud computing for big data analysis. We also integrate GPS location and implmented a form of YOLO to trach and find the children.&lt;/p>
+&lt;p>A simple and easy to use PWA just allows the user to take a picture of a child. Face recognition and tracking is done with this data. To optimize the solution all the computation is distributed to the cloud.&lt;/p>
+&lt;h3 id="problem-statement">Problem statement&lt;/h3>
+&lt;p>India, with its growing population, is experiencing a growing no. of children who are left unattended in the streets for various reasons. There is extreme difficulty is mapping those in need and to rescue them from the streets. We wanted to solve this problem by using blockchain and face recognition empower the public with a platform to fight child mistreatments and child abuse.&lt;/p>
+&lt;h3 id="objectives">Objectives&lt;/h3>
+&lt;ul>
+&lt;li>Using blockchain and face recognition empower the public with a platform to fight child mistreatments and child abuse.&lt;/li>
+&lt;li>Provide a platform for NGOs that target rehabilitation of unattended street children/orphans&lt;/li>
+&lt;li>Empower any user to help eradicate a gloomy future for these kids&lt;/li>
+&lt;li>Make it cross-platform so as to ensure maximum usage and no restrictions&lt;/li>
+&lt;/ul>
+&lt;h3 id="architecture">Architecture&lt;/h3>
+&lt;p>The proposed design is an Progressive Web App that runs on all platforms irrespective of Operating Systems. The application allows the user to take a geotagged image which delivered to a web server which again forwards it to a search and match server which functions as a matcher. The search and match servers run facial recognition algorithms and checks from the database for image data matching to anything in the database. If a match is found, the concerned organisation can view the geotagged image and the location of the child found. The organisation can take further action accordingly.&lt;/p>
+&lt;figure class="center" >
+&lt;img src="/orphan.png" />
+&lt;figcaption class="center" >OrphanCare: Application architecture&lt;/figcaption>
+&lt;/figure>
+&lt;h4 id="team">Team&lt;/h4>
+&lt;p>&lt;a href="https://github.com/apuayush">@apuayush&lt;/a> &lt;a href="https://github.com/nishnash54">@nishnash54&lt;/a> &lt;a href="https://github.com/SuryaThiru">@SuryaThiru&lt;/a> &lt;a href="https://github.com/samyak-jain">@samyak-jain&lt;/a> &lt;a href="https://github.com/technophilic">@technophilic&lt;/a>&lt;/p></content></item><item><title>SubConn</title><link>/projects/subconn/</link><pubDate>Wed, 04 Jun 2014 01:18:09 +0530</pubDate><guid>/projects/subconn/</guid><description>A Progressive Web App to track subsidized product transactions using distributed ledgers, hence improving efficiency and transparency in the distribution of goods and services through various Govt. schemes.
+The algorithm includes a unique forward pass that integrates the tokens with the blockchain to allow for a back propagation to detect and handle errors. The block chain secures the item transactions and maintains the path followed by each item
+Problem statement The government spends $13.</description><content>&lt;p>A Progressive Web App to track subsidized product transactions using distributed ledgers, hence improving efficiency and transparency in the distribution of goods and services through various Govt. schemes.&lt;/p>
+&lt;p>The algorithm includes a unique forward pass that integrates the tokens with the blockchain to allow for a back propagation to detect and handle errors. The block chain secures the item transactions and maintains the path followed by each item&lt;/p>
+&lt;h3 id="problem-statement">Problem statement&lt;/h3>
+&lt;ul>
+&lt;li>The government spends $13.6 billion per year on the Public
+Distribution System(PDS)&lt;/li>
+&lt;li>With the total subsidies provided added up to a staggering Rs. 2400 billion.&lt;/li>
+&lt;li>These services do not reach the targeted people due to corruption in the system&lt;/li>
+&lt;li>This is clearly visible by the fact that 21% of the population still remain undernourished.&lt;/li>
+&lt;/ul>
+&lt;h3 id="solution">Solution&lt;/h3>
+&lt;ul>
+&lt;li>Tracking the products from the supplier to the consumer through the chain.&lt;/li>
+&lt;li>Eliminate tampering by middlemen.&lt;/li>
+&lt;li>Maintain quality control of the goods.&lt;/li>
+&lt;/ul>
+&lt;h3 id="application-wireframes">Application (wireframes)&lt;/h3>
+&lt;figure class="center" >
+&lt;img src="/subconn.png" />
+&lt;figcaption class="center" >OrphanCare: Application wireframes&lt;/figcaption>
+&lt;/figure>
+&lt;h4 id="team">Team&lt;/h4>
+&lt;p>&lt;a href="https://github.com/apuayush">@apuayush&lt;/a> &lt;a href="https://github.com/nishnash54">@nishnash54&lt;/a> &lt;a href="https://github.com/SuryaThiru">@SuryaThiru&lt;/a> &lt;a href="https://github.com/technophilic">@technophilic&lt;/a>&lt;/p></content></item></channel></rss>

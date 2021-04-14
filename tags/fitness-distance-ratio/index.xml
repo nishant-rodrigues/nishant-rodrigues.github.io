@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>fitness-distance ratio on Nishant Rodrigues</title><link>/tags/fitness-distance-ratio/</link><description>Recent content in fitness-distance ratio on Nishant Rodrigues</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 12 Jul 2020 13:30:34 +0530</lastBuildDate><atom:link href="/tags/fitness-distance-ratio/index.xml" rel="self" type="application/rss+xml"/><item><title>Archive-based Swarms</title><link>/publications/fabso/</link><pubDate>Sun, 12 Jul 2020 13:30:34 +0530</pubDate><guid>/publications/fabso/</guid><description>The Particle Swarm Optimization (PSO) algorithm updates each individual&amp;rsquo;s velocity and position using its own prior best position and the best position found so far by any particle. Effective search for global optima can benefit if each particle may utilize additional historical information regarding the quality of previously visited positions in its proximity. We present an approach for doing so, using an archive containing some prior particle positions, analogous to the archive used in some multi-objective optimization algorithms.</description><content>&lt;p>The Particle Swarm Optimization (PSO) algorithm updates each individual&amp;rsquo;s velocity and position using its own prior best position and the best position found so far by any particle. Effective search for global optima can benefit if each particle may utilize additional historical information regarding the quality of previously visited positions in its proximity. We present an approach for doing so, using an archive containing some prior particle positions, analogous to the archive used in some multi-objective optimization algorithms. A specific instance of this approach is the proposed Fitness-Distance-Ratio Archive-Based Swarm Optimization algorithm, shown to outperform PSO and three other variants, when applied to high-dimensional neural network training problems.&lt;/p>
+&lt;p>&lt;a href="https://dl.acm.org/doi/abs/10.1145/3377929.3398112">Full paper&lt;/a>&lt;/p>
+&lt;details >
+&lt;summary>Cite&lt;/summary>
+&lt;div class="markdown-inner">
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-bibtex" data-lang="bibtex">&lt;span style="color:#a6e22e">@inproceedings&lt;/span>{10.1145/3377929.3398112,
+&lt;span style="color:#a6e22e">author&lt;/span> = &lt;span style="color:#e6db74">{Rodrigues, Nishant and Mohan, Chilukuri}&lt;/span>,
+&lt;span style="color:#a6e22e">title&lt;/span> = &lt;span style="color:#e6db74">{Archive-Based Swarms}&lt;/span>,
+&lt;span style="color:#a6e22e">year&lt;/span> = &lt;span style="color:#e6db74">{2020}&lt;/span>,
+&lt;span style="color:#a6e22e">isbn&lt;/span> = &lt;span style="color:#e6db74">{9781450371278}&lt;/span>,
+&lt;span style="color:#a6e22e">publisher&lt;/span> = &lt;span style="color:#e6db74">{Association for Computing Machinery}&lt;/span>,
+&lt;span style="color:#a6e22e">address&lt;/span> = &lt;span style="color:#e6db74">{New York, NY, USA}&lt;/span>,
+&lt;span style="color:#a6e22e">url&lt;/span> = &lt;span style="color:#e6db74">{https://doi.org/10.1145/3377929.3398112}&lt;/span>,
+&lt;span style="color:#a6e22e">doi&lt;/span> = &lt;span style="color:#e6db74">{10.1145/3377929.3398112}&lt;/span>,
+&lt;span style="color:#a6e22e">booktitle&lt;/span> = &lt;span style="color:#e6db74">{Proceedings of the 2020 Genetic and
+&lt;/span>&lt;span style="color:#e6db74">Evolutionary Computation Conference Companion}&lt;/span>,
+&lt;span style="color:#a6e22e">pages&lt;/span> = &lt;span style="color:#e6db74">{1460–1467}&lt;/span>,
+&lt;span style="color:#a6e22e">numpages&lt;/span> = &lt;span style="color:#e6db74">{8}&lt;/span>,
+&lt;span style="color:#a6e22e">keywords&lt;/span> = &lt;span style="color:#e6db74">{artificial neural networks, fitness-distance ratio, archive,
+&lt;/span>&lt;span style="color:#e6db74">swarm intelligence, evolutionary machine learning,
+&lt;/span>&lt;span style="color:#e6db74">particle swarm optimization, premature convergence}&lt;/span>,
+&lt;span style="color:#a6e22e">location&lt;/span> = &lt;span style="color:#e6db74">{Canc\&amp;#39;{u}n, Mexico}&lt;/span>,
+&lt;span style="color:#a6e22e">series&lt;/span> = &lt;span style="color:#e6db74">{GECCO &amp;#39;20}&lt;/span>
+}
+&lt;/code>&lt;/pre>&lt;/div>
+&lt;/div>
+&lt;/details></content></item></channel></rss>
