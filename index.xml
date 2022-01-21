@@ -3,7 +3,7 @@
 &lt;details >
 &lt;summary>Cite&lt;/summary>
 &lt;div class="markdown-inner">
-&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-bibtex" data-lang="bibtex">&lt;span style="color:#a6e22e">@Article&lt;/span>{app10144915,
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-bibtex" data-lang="bibtex">&lt;span style="color:#a6e22e">@Article&lt;/span>{app10144915,
 &lt;span style="color:#a6e22e">AUTHOR&lt;/span> = &lt;span style="color:#e6db74">{Roy, Sanjiban Sekhar and Rodrigues, Nishant and Taguchi, Y-h.}&lt;/span>,
 &lt;span style="color:#a6e22e">TITLE&lt;/span> = &lt;span style="color:#e6db74">{Incremental Dilations Using CNN for Brain Tumor Classification}&lt;/span>,
 &lt;span style="color:#a6e22e">JOURNAL&lt;/span> = &lt;span style="color:#e6db74">{Applied Sciences}&lt;/span>,
@@ -22,7 +22,7 @@
 &lt;details >
 &lt;summary>Cite&lt;/summary>
 &lt;div class="markdown-inner">
-&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-bibtex" data-lang="bibtex">&lt;span style="color:#a6e22e">@inproceedings&lt;/span>{10.1145/3377929.3398112,
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-bibtex" data-lang="bibtex">&lt;span style="color:#a6e22e">@inproceedings&lt;/span>{10.1145/3377929.3398112,
 &lt;span style="color:#a6e22e">author&lt;/span> = &lt;span style="color:#e6db74">{Rodrigues, Nishant and Mohan, Chilukuri}&lt;/span>,
 &lt;span style="color:#a6e22e">title&lt;/span> = &lt;span style="color:#e6db74">{Archive-Based Swarms}&lt;/span>,
 &lt;span style="color:#a6e22e">year&lt;/span> = &lt;span style="color:#e6db74">{2020}&lt;/span>,
@@ -154,12 +154,12 @@ We implemented a disaster management and recovery platform that uses swarm robot
 &lt;h3 id="data-structures-and-algorithms-hackathon">Data Structures and Algorithms Hackathon&lt;/h3>
 &lt;p>🥇 &lt;em>Computer Society of India&lt;/em> March 2017&lt;/p>
 &lt;p>Secured the First place in the Data Structures and Algorithms hackathon conducted by the Computer Society of India chapter, VIT Vellore.&lt;/p></content></item><item><title>Connect</title><link>/connect/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/connect/</guid><description>Details
-🏢 iQGateway 📍 Bangalore, India ✉️ nishantrodrigues97@gmail.com 💼 LinkedIn nishant-rodrigues Open Source
+🏫 Syracuse University 📍 Syracuse, New York ✉️ nishantrodrigues97@gmail.com 💼 LinkedIn nishant-rodrigues Open Source
 GitHub @nishnash54 GitLab @nishnash54 Blogs
 Medium skillsmuggler</description><content>&lt;p>Details&lt;/p>
 &lt;ul>
-&lt;li>🏢 iQGateway&lt;/li>
-&lt;li>📍 Bangalore, India&lt;/li>
+&lt;li>🏫 Syracuse University&lt;/li>
+&lt;li>📍 Syracuse, New York&lt;/li>
 &lt;li>✉️ &lt;a href="mailto:nishantrodrigues97@gmail.com">nishantrodrigues97@gmail.com&lt;/a>&lt;/li>
 &lt;li>💼 LinkedIn &lt;a href="https://www.linkedin.com/public-profile/in/nishant-rodrigues">nishant-rodrigues&lt;/a>&lt;/li>
 &lt;/ul>
@@ -172,11 +172,20 @@ Medium skillsmuggler</description><content>&lt;p>Details&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://medium.com/@nishantrodrigues97">Medium&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://skillsmuggler.wordpress.com/">skillsmuggler&lt;/a>&lt;/li>
-&lt;/ul></content></item><item><title>Experience</title><link>/experience/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/experience/</guid><description>Associate Data Scientist iQGateway 📅 Current 📍 Bangalore
-Responsible for developing and implementing patented concepts for an Automated Machine Learning approach that includes pipeline automation and model scoring based on multiple metrics.
-Data Science Consultant iQGateway 📅 June 2018 - December 2019 (1 year 7 months) 📍 Bangalore
-Part of a team that supports the lead data scientist in a number of projects covering the areas of Image analytics, prediction, and Recommendation engines.</description><content>&lt;h3 id="associate-data-scientist">Associate Data Scientist&lt;/h3>
-&lt;p>&lt;strong>iQGateway&lt;/strong> 📅 Current 📍 Bangalore&lt;/p>
+&lt;/ul></content></item><item><title>Experience</title><link>/experience/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/experience/</guid><description>Data Specialist Syracuse University 📅 Current 📍 Syracuse
+Responsible for curating the GTWF data database, identifying structure, relationships, and weaknesses of the data. Creating static and dynamic visualization that showcase trends and give insights about the data. This project is funded by a NSF Grant #1536542
+Graduate Research Assistant Syracuse University 📅 Current 📍 Syracuse
+Analysed and implemented Artificial Intelligence, and Evolutionary and Genetic algorithms at the Syracuse Evolutionary and Neural Systems Exploration (SENSE) Lab.</description><content>&lt;h3 id="data-specialist">Data Specialist&lt;/h3>
+&lt;p>&lt;strong>Syracuse University&lt;/strong> 📅 Current 📍 Syracuse&lt;/p>
+&lt;p>Responsible for curating the GTWF data database, identifying structure, relationships, and weaknesses of the data. Creating static and dynamic visualization that showcase trends and give insights about the data.
+This project is funded by a NSF Grant &lt;a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1536542">#1536542&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h3 id="graduate-research-assistant">Graduate Research Assistant&lt;/h3>
+&lt;p>&lt;strong>Syracuse University&lt;/strong> 📅 Current 📍 Syracuse&lt;/p>
+&lt;p>Analysed and implemented Artificial Intelligence, and Evolutionary and Genetic algorithms at the Syracuse Evolutionary and Neural Systems Exploration (SENSE) Lab.&lt;/p>
+&lt;hr>
+&lt;h3 id="associate-data-scientist">Associate Data Scientist&lt;/h3>
+&lt;p>&lt;strong>iQGateway&lt;/strong> 📅 December 2019 - August 2021 📍 Bangalore&lt;/p>
 &lt;p>Responsible for developing and implementing patented concepts for an Automated Machine Learning approach that includes pipeline automation and model scoring based on multiple metrics.&lt;/p>
 &lt;hr>
 &lt;h3 id="data-science-consultant">Data Science Consultant&lt;/h3>
@@ -212,14 +221,14 @@ Workshop on Data Sctuctures and Algorithms Guest speaker on the topic of &amp;ld
 &lt;h3 id="workshop-on-data-sctuctures-and-algorithms">Workshop on Data Sctuctures and Algorithms&lt;/h3>
 &lt;p>Guest speaker on the topic of &amp;ldquo;Application of Data Structures and Algorithms in Competitive programming&amp;rdquo; at VIT Amravati (2017)&lt;/p></content></item><item><title>whoami</title><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid><description>I am a knowledge-hungry engineer who is constantly looking for opportunities and real-world challenges to solve, learn and improve my skills. I work on all things machine learning, exploring the domain to find my niche. I love open-source and engange whenever I get the time and chance.
 Technical strengths Computer languages
-⭐ Python, R, C/C++, Java, Julia
+⭐ Python, R, Julia, C/C++, Java
 Software and Tools
 Operating system
 ⭐ Linux, Windows
 Editors</description><content>&lt;p>I am a knowledge-hungry engineer who is constantly looking for opportunities and real-world challenges to solve, learn and improve my skills. I work on all things machine learning, exploring the domain to find my niche. I love open-source and engange whenever I get the time and chance.&lt;/p>
 &lt;h3 id="technical-strengths">Technical strengths&lt;/h3>
 &lt;p>&lt;strong>Computer languages&lt;/strong>&lt;/p>
-&lt;p>⭐ Python, R, C/C++, Java, Julia&lt;/p>
+&lt;p>⭐ Python, R, Julia, C/C++, Java&lt;/p>
 &lt;p>&lt;strong>Software and Tools&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>
