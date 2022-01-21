@@ -2,8 +2,8 @@
 title: "Connect"
 ---
 Details
- - :office: iQGateway
- - :round_pushpin: Bangalore, India
+ - :school: Syracuse University
+ - :round_pushpin: Syracuse, New York
  - :email: nishantrodrigues97@gmail.com
  - :briefcase: LinkedIn [nishant-rodrigues](https://www.linkedin.com/public-profile/in/nishant-rodrigues)
 

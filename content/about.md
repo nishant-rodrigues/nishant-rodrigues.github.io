@@ -6,7 +6,7 @@ I am a knowledge-hungry engineer who is constantly looking for opportunities and
 ### Technical strengths
 **Computer languages**
 
-:star: Python, R, C/C++, Java, Julia
+:star: Python, R, Julia, C/C++, Java
 
 **Software and Tools**
 

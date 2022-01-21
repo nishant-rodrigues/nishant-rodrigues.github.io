@@ -1,8 +1,21 @@
 ---
 title: "Experience"
 ---
+### Data Specialist
+**Syracuse University** :date: Current :round_pushpin: Syracuse
+
+Responsible for curating the GTWF data database, identifying structure, relationships, and weaknesses of the data. Creating static and dynamic visualization that showcase trends and give insights about the data.
+This project is funded by a NSF Grant [#1536542](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1536542) 
+
+---
+### Graduate Research Assistant
+**Syracuse University** :date: Current :round_pushpin: Syracuse
+
+Analysed and implemented Artificial Intelligence, and Evolutionary and Genetic algorithms at the Syracuse Evolutionary and Neural Systems Exploration (SENSE) Lab.
+
+---
 ### Associate Data Scientist
-**iQGateway** :date: Current :round_pushpin: Bangalore
+**iQGateway** :date: December 2019 - August 2021 :round_pushpin: Bangalore
 
 Responsible for developing and implementing patented concepts for an Automated Machine Learning approach that includes pipeline automation and model scoring based on multiple metrics.
 
